@@ -3,3 +3,4 @@ parrafo 2 desde main
 parrafo 3 desde main
 
 parrafo 1 de user 2
+parrafo 2 de user 2
